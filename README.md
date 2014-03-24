@@ -32,7 +32,7 @@ php geohash extension  (php geohash 扩展)
 
 
 	/**
-	 *  $hash    //geohash_encode后的值
+	 *  $hash    //geohash_decode后的值
 	 *  返回 array // Array
 	 *					(
 	 *					    [latitude] => 39.416916975752
